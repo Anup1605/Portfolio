@@ -24,7 +24,7 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-    $('.carousel').owlCarousel({
+    $(".carousel").owlCarousel({
         margin: 20,
         loop: true,
         autoplayTimeOut: 2000,

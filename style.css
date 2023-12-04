@@ -23,9 +23,9 @@ html{
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
-.navbar.sticky{
+.navbar{
     padding: 15px 0;
-    background: white;
+    background: crimson;
 }
 .navbar .max-width{
     display: flex;

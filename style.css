@@ -33,7 +33,7 @@ html{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: white;
+    color: crimson;
     font-size: 35px;
     font-weight: 600;
 }

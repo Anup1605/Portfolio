@@ -24,24 +24,6 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-
-    var typed1 = new Typed(".typing", {
-        strings: ["a web Developer"],
-        typeSpeed: 100,
-        backSpeed: 100,
-        loop: true,
-        showCursor: false
-    });
-    
-    var typed2 = new Typed(".typing-2", {
-        strings: ["a web Developer"],
-        typeSpeed: 100,
-        backSpeed: 100,
-        loop: true,
-        showCursor: false 
-    });
-    
-
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
